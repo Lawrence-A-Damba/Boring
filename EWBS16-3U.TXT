@@ -1,0 +1,179 @@
+ZZ 29^40'47.880"    91^28'16.260" (U)
+BOR. EWBS16-3U (16-23332)
+STA. 
+
+WATER TABLE 4.0 FT.
+Date: 09/30/2016
+CONTRACTOR: EUSTIS ENGINEERING 
+GROUND EL. 6.18
+  0.0  2.0 25  2.0CL     ST GR  T    RT  
+  2.0  3.0 33     CH     ST GR  T      
+  3.0  4.0 33     CH     ST GR  T    CC   
+  4.0  5.0 30     CH     ST  T GR                      
+  5.0  6.0 28  6.0CH     ST GR        G
+  6.0  8.0 37     CH  SISST  T GR    CC                1322119            30  63  
+  8.0  9.0 33     CH  SISST GR  T
+  9.0 10.0 33     CH  SISST GR  T    CC
+ 10.0 12.0 35 12.0CH  SISST GR  T
+ 12.0 13.0 33     CH     ST GNG T    WD 
+ 13.0 14.0 33     CH     ST GNG T      
+ 14.0 16.0 38     CH      M GNG T                       663114            36 143     
+ 16.0 17.0 34     CH      M GNG        
+ 17.0 18.0 36     CH      M GNG       
+ 18.0 20.0 36     CH      M GNG                         537116            37 183        
+ 20.0 21.0 39     CH      M GR         
+ 21.0 22.0 39 22.0CH      M GR         
+ 22.0 23.0 37     CL     SO GR       CC        
+ 23.0 24.0 38     CL     SO GR         
+ 24.0 25.0 38     CL     SO GR       WD
+ 25.0 26.0 38     CL     SO GR       WD
+ 26.0 27.0 35 27.0CL      M GR                          665119            33 263 
+ 27.0 28.0 35     CH  SIS M GR       WD CC
+ 28.0 29.0 40 29.0CH  SIS M GR       CC
+ 29.0 30.0 38 30.0CL     SO GR       WD
+ 30.0 31.0 38 31.0CH  SISSO GR       SL                 392115            39 303  3.7
+ 31.0 32.0 37 32.0CL      M GR       WD
+ 32.0 33.0 41     CH  SIS M GR       CC WD
+ 33.0 34.0 44     CH  SIS M GR       CC SL              572111            45 333
+ 34.0 35.0 44 35.0CH  SIS M GR       CC
+ 35.0 36.0 35 36.0CL      M GR       CC
+ 36.0 37.0 36     CH  SIS M GR       CC
+ 37.0 38.0 35     CH  SIS M GR       CC                 655116            34 373
+ 38.0 39.0 41 39.0CH  SIS M GR       CC WD
+ 39.0 40.0 44     CH      M GR       WD   
+ 40.0 41.0 47     CH      M GR       WD CC
+ 41.0 42.0 47     CH      M GR       WD CC
+ 42.0 43.0 46     CH      M GR       CC                 729112            44 423
+ 43.0 44.0 41     CH      M GR       WD CC
+ 44.0 45.0 42     CH      M GR       CC WD
+ 45.0 46.0 37 46.0CH      M GR       CC WD
+ 46.0 47.0 39     CH  SIS M GR       CC SL
+ 47.0 48.0 37     CH  SIS M GR       CC WD
+ 48.0 49.0 37     CH  SISST GR       CC WD SL
+ 49.0 50.0 43     CH  SISST GR       CC WD SL
+ 50.0 51.0 46     CH  SISST GR       CC SL             1360115            39 503
+ 51.0 52.0 43     CH  SISST GR       CC WD SL
+ 52.0 53.0 35     CH  SISST GR       SL
+ 53.0 54.0 43     CH  SISST GR       SL
+ 54.0 55.0 40     CH  SISST GR       SL                1441119            33 543
+ 55.0 56.0 34     CH  SISST GR       SL
+ 56.0 57.0 48 57.0CH  SIS M GR
+ 57.0 58.0 38 58.0CH      M GR            
+ 58.0 60.0 31     CL     SO GR         
+ 60.0 61.0 40     CL     SO GR          
+ 61.0 62.0 32 62.0CL      M GR            
+ 62.0 64.0 41 64.0CH  SISST GR          
+ 64.0 65.0 33 65.0CL     SO GR               
+ 65.0 66.0 28 66.0SP        GR        O 
+ 66.0 68.0    68.0NS   
+ 68.0 70.5 22 70.5SP        GR                        8
+ 70.5 73.0 30     ML        GR        S              27
+ 73.0 75.5 31 75.5ML        GR        S              37
+ 75.5 78.0 25     SM        GR       SIF             43
+ 78.0 80.5 26     SM        GR       CS              69
+ 80.5 83.0 21     SM        GR                       57
+ 83.0 85.5 24     SM        GR                       69
+ 85.5 89.0 24     SM        GR       SIF             56
+ 89.0 91.5 22     SM        GR                       46
+ 91.5 94.0 22     SM        GR                       39
+ 94.0 96.5 22 96.5SM        GR                       44
+ 96.5 99.0 28     CL     VSTGNG      CC              20
+ 99.0100.5 33100.5CL     VSTGNG T     S              23
+999.9
+***************************************************************************
+SHEAR STRENGTH DESIGN VALUES
+Test Type:(Q)                    Classif  : CH  
+Depth/Ele:  3.00/03.18           Water Con: 30.00
+LL,PL,PI :  55, 20, 35           Dry Dens : 93.00
+Cohesion :  0.500                Saturat  :100.00
+Shear Str:                       Frict Ang: 00.00
+Toggles  :(     )(     )(     )(     )
+***************************************************************************
+SHEAR STRENGTH DESIGN VALUES
+Test Type:(Q)                    Classif  : CH  
+Depth/Ele:  9.00/-02.82          Water Con: 32.00
+LL,PL,PI :  72, 24, 48           Dry Dens : 90.00
+Cohesion :  0.507                Saturat  :100.00
+Shear Str:                       Frict Ang: 00.00
+Toggles  :(     )(     )(     )(     )
+***************************************************************************
+SHEAR STRENGTH DESIGN VALUES
+Test Type:(Q)                    Classif  : CH  
+Depth/Ele: 17.00/-10.82          Water Con: 39.00
+LL,PL,PI :  56, 24, 32           Dry Dens : 82.00
+Cohesion :  0.314                Saturat  : 98.00
+Shear Str:                       Frict Ang: 00.00
+Toggles  :(     )(     )(     )(     )
+***************************************************************************
+SHEAR STRENGTH DESIGN VALUES
+Test Type:(Q)                    Classif  : CL  
+Depth/Ele: 22.00/-15.82          Water Con: 36.00
+LL,PL,PI :  42, 20, 22           Dry Dens : 86.00
+Cohesion :  0.207                Saturat  :100.00
+Shear Str:                       Frict Ang: 00.00
+Toggles  :(     )(     )(     )(     )
+***************************************************************************
+SHEAR STRENGTH DESIGN VALUES
+Test Type:(Q)                    Classif  : CL  
+Depth/Ele: 25.00/-18.82          Water Con: 36.00
+LL,PL,PI :  38, 21, 17           Dry Dens : 88.00
+Cohesion :  0.194                Saturat  :100.00
+Shear Str:                       Frict Ang: 00.00
+Toggles  :(     )(     )(     )(     )
+***************************************************************************
+SHEAR STRENGTH DESIGN VALUES
+Test Type:(Q)                    Classif  : CL  
+Depth/Ele: 29.00/-22.82          Water Con: 37.00
+LL,PL,PI :  36, 19, 17           Dry Dens : 84.00
+Cohesion :  0.241                Saturat  : 98.00
+Shear Str:                       Frict Ang: 00.00
+Toggles  :(     )(     )(     )(     )
+***************************************************************************
+SHEAR STRENGTH DESIGN VALUES
+Test Type:(Q)                    Classif  : CL  
+Depth/Ele: 35.00/-28.82          Water Con: 37.00
+LL,PL,PI :  42, 23, 19           Dry Dens : 84.00
+Cohesion :  0.311                Saturat  : 97.00
+Shear Str:                       Frict Ang: 00.00
+Toggles  :(     )(     )(     )(     )
+***************************************************************************
+SHEAR STRENGTH DESIGN VALUES
+Test Type:(Q)                    Classif  : CH  
+Depth/Ele: 38.00/-31.82          Water Con: 45.00
+LL,PL,PI :  67, 25, 42           Dry Dens : 76.00
+Cohesion :  0.403                Saturat  : 97.00
+Shear Str:                       Frict Ang: 00.00
+Toggles  :(     )(     )(     )(     )
+***************************************************************************
+SHEAR STRENGTH DESIGN VALUES
+Test Type:(Q)                    Classif  : CH  
+Depth/Ele: 42.00/-35.82          Water Con: 45.00
+LL,PL,PI :  53, 22, 31           Dry Dens : 76.00
+Cohesion :  0.389                Saturat  :100.00
+Shear Str:                       Frict Ang: 00.00
+Toggles  :(     )(     )(     )(     )
+***************************************************************************
+SHEAR STRENGTH DESIGN VALUES
+Test Type:(Q)                    Classif  : CH  
+Depth/Ele: 46.00/-39.82          Water Con: 40.00
+LL,PL,PI :  73, 25, 48           Dry Dens : 81.00
+Cohesion :  0.480                Saturat  :100.00
+Shear Str:                       Frict Ang: 00.00
+Toggles  :(     )(     )(     )(     )
+***************************************************************************
+SHEAR STRENGTH DESIGN VALUES
+Test Type:(Q)                    Classif  : CH  
+Depth/Ele: 57.00/-50.82          Water Con: 36.00
+LL,PL,PI :  50, 23, 27           Dry Dens : 84.00
+Cohesion :  0.283                Saturat  : 97.00
+Shear Str:                       Frict Ang: 00.00
+Toggles  :(     )(     )(     )(     )
+***************************************************************************
+SHEAR STRENGTH DESIGN VALUES
+Test Type:(Q)                    Classif  : CL  
+Depth/Ele: 61.00/-54.82          Water Con: 32.00
+LL,PL,PI :  30, 18, 12           Dry Dens : 92.00
+Cohesion :  0.429                Saturat  :100.00
+Shear Str:                       Frict Ang: 00.00
+Toggles  :(     )(     )(     )(     )
+***************************************************************************
